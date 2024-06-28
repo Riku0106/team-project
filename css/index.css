@@ -26,3 +26,7 @@ h2 {
 .content {
     padding-right: 10px;
 }
+
+strong {
+    text-decoration: underline;
+}
